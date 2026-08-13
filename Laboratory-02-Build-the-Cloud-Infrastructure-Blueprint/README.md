@@ -1,4 +1,4 @@
-#  Build the Cloud Infrastructure Blueprint
+#  Laboratory Activity 2: Build the Cloud Infrastructure Blueprint
 
 ##  Overview
 This laboratory activity focuses on investigating cloud infrastructure components and understanding how compute, storage, networking, and identity services work together in a cloud environment. Through hands-on exploration of a live cloud server, we bridged theoretical cloud concepts with real-world infrastructure configurations.
