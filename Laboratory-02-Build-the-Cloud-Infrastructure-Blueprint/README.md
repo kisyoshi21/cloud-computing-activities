@@ -25,14 +25,16 @@ This laboratory activity focuses on investigating cloud infrastructure component
 * **Markdown:** Lightweight markup language used for authoring technical documentation.
 
 ## Linux Commands Executed
-During the cloud server investigation, the following commands were executed:
-* `cat /etc/os-release` — Checked the operating system release and version details.
-* `uname -r` — Displayed the active Linux kernel version.
-* `lscpu | grep -E "Model name|CPU(s)"` — Inspected CPU model specifications and core allocation.
-* `free -h` — Evaluated total and available system memory (RAM) and swap space.
-* `lsblk` — Listed available block storage devices and partitions (`vda`).
-* `df -h` — Displayed disk space usage and mounted file systems (`/`, `/boot`, etc.).
-* `hostname` & `hostname -I` — Identified the server hostname and network IP addresses.
+
+| Command | Purpose |
+| :--- | :--- |
+| `cat /etc/os-release` | Check operating system details |
+| `uname -r` | Check kernel version |
+| `lscpu` | Check CPU model and core count |
+| `free -h` | Check total RAM |
+| `df -h` | Check disk capacity and mounted filesystems |
+| `hostname` | Check system hostname |
+| `ip a` | Check IP address and network interfaces |
 
 ## Skills Learned
 * Profiling and extracting hardware/software specifications from a cloud-based Linux environment.
