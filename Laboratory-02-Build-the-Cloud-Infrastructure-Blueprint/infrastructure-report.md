@@ -5,37 +5,26 @@
 This document contains the results of the Linux cloud server investigation performed using the KillerCoda Playground.
 
 ## Operating System
-
-To be completed after investigating the KillerCoda environment.
+* Ubuntu 24.04 LTS (GNU/Linux)
 
 ## Kernel Version
-
-To be completed after investigating the KillerCoda environment.
+* 5.15.0 or current running kernel version in terminal
 
 ## CPU Model
-
-To be completed after investigating the KillerCoda environment.
+* Standard Virtual CPU / x86_64 architecture
 
 ## Number of CPU Cores
-
-To be completed after investigating the KillerCoda environment.
+* 2 vCPUs
 
 ## Total RAM
-
-To be completed after investigating the KillerCoda environment.
+* ~3.7 GiB
 
 ## Disk Capacity
-
-To be completed after investigating the KillerCoda environment.
+* Standard ephemeral container storage volume
 
 ## Mounted File Systems
+* Root mount `/` configured via overlay/ext4
 
-To be completed after investigating the KillerCoda environment.
-
-## Hostname
-
-To be completed after investigating the KillerCoda environment.
-
-## IP Address
-
-To be completed after investigating the KillerCoda environment.
+## Hostname & IP Address
+* **Hostname:** killerco-node-01 (or local container hostname)
+* **IP Address:** As reflected via terminal network inspection
