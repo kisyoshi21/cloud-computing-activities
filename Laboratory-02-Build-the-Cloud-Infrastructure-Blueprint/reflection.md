@@ -1,4 +1,4 @@
-# Mission Reflection# Mission Reflection
+#  REFLECTION
 
 Reviewing the fundamental layers of cloud computing highlights how abstract cloud services trace directly back to foundational Linux operating system mechanisms. Among all infrastructure components, compute resources are arguably the most vital because they execute the logic that drives modern applications. However, compute power is useless without secure networking to deliver data and persistent storage to retain state. 
 
