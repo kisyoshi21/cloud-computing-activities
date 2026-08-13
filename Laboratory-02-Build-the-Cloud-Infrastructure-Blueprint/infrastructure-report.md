@@ -5,26 +5,29 @@
 This document contains the results of the Linux cloud server investigation performed using the KillerCoda Playground.
 
 ## Operating System
-* Ubuntu 24.04 LTS (GNU/Linux)
+* **PRETTY_NAME:** Ubuntu 24.04.4 LTS (Noble Numbat)
+* **VERSION_ID:** 24.04
 
 ## Kernel Version
-* 5.15.0 or current running kernel version in terminal
+* 6.8.0-136-generic
 
 ## CPU Model
-* Standard Virtual CPU / x86_64 architecture
+* Intel Xeon E312xx (Sandy Bridge, IBRS update) @ 2.0GHz
 
 ## Number of CPU Cores
-* 2 vCPUs
+* 1 CPU Core (0-off-line list reference, 1 total allocated vCPU)
 
 ## Total RAM
-* ~3.7 GiB
+* 1.9 GiB Total Memory (with 1.0 GiB Swap)
 
 ## Disk Capacity
-* Standard ephemeral container storage volume
+* 20G Total Disk Volume (`vda`)
 
 ## Mounted File Systems
-* Root mount `/` configured via overlay/ext4
+* **Root (`/`):** `/dev/vda1` (19G capacity, ~5.4G used, 13G available, 30% usage)
+* **Boot (`/boot`):** `/dev/vda16` (881M capacity)
+* **EFI System Partition:** `/dev/vda15` (105M capacity)
 
 ## Hostname & IP Address
-* **Hostname:** killerco-node-01 (or local container hostname)
-* **IP Address:** As reflected via terminal network inspection
+* **Hostname:** ubuntu
+* **IP Address:** 172.30.1.2 / 172.17.0.1
