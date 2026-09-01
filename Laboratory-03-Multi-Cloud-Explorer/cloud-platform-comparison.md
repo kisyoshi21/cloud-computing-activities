@@ -24,14 +24,14 @@
 
 ## Platform Analysis Questions
 
-* **Which cloud provider offers the broadest range of services?** 
+1. **Which cloud provider offers the broadest range of services?** 
   Amazon Web Services (AWS) offers the broadest and most mature range of features and specialized services due to its early market entry and extensive development history.
 
-* **Which provider best integrates with Microsoft technologies?** 
+2. **Which provider best integrates with Microsoft technologies?** 
   Microsoft Azure provides the most seamless and native integration for traditional Microsoft enterprise environments, such as Windows Server, Active Directory, and SQL Server.
 
-* **Which provider is strongest in Artificial Intelligence and Kubernetes?** 
+3. **Which provider is strongest in Artificial Intelligence and Kubernetes?** 
   Google Cloud Platform (GCP) leads in these areas, leveraging Google's pioneering work in container orchestration via Kubernetes (GKE) and advanced machine learning infrastructure.
 
-* **Which cloud platform would you personally choose and why?** 
+4. **Which cloud platform would you personally choose and why?** 
   AWS or GCP is often favored for flexible, cloud-native web application development and modern scalable architectures due to their extensive documentation and robust developer toolsets.
