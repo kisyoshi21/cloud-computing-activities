@@ -12,4 +12,4 @@ If this KillerCoda Linux server were migrated to the public cloud, it could be h
 * **Microsoft Azure:** Azure Virtual Machines (Standard_B1s or Standard_B2s instance running Ubuntu)
 * **Google Cloud Platform:** Google Compute Engine (e2-micro or e2-small VM instance running Ubuntu)
 
-**
+*killercoda.png*
