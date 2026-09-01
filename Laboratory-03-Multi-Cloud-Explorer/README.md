@@ -1,17 +1,15 @@
 # Mission 3: Become a Multi-Cloud Explorer
 
-## Mission Overview
-This laboratory activity explores the world's leading public cloud platforms (AWS, Microsoft Azure, and GCP), compares their core capabilities, and applies multi-cloud strategies to real-world business scenarios.
+## Linux Cloud Server Environment Profile (KillerCoda)
+* **Operating System:** Ubuntu 24.04.4 LTS
+* **CPU Information:** Intel Xeon E312xx (1 vCPU, 2.0GHz)
+* **Memory:** 1.9 Gi Total RAM
+* **Disk Space:** 19 GB Total Disk Storage (`/dev/vda1`)
 
-## Objectives
-- Explore major public cloud platforms and their global infrastructure.
-- Analyze core services across AWS, Azure, and GCP.
-- Provide tailored cloud platform recommendations for diverse enterprise clients.
-- Map equivalent services using a multi-cloud decision matrix.
-- Profile a Linux server environment and map it to cloud hosting equivalents.
+## Cloud Hosting Equivalents
+If this KillerCoda Linux server were migrated to the public cloud, it could be hosted on the following equivalent virtual machine services:
+* **AWS:** Amazon EC2 (t3.micro or t3.small instance running Ubuntu)
+* **Microsoft Azure:** Azure Virtual Machines (Standard_B1s or Standard_B2s instance running Ubuntu)
+* **Google Cloud Platform:** Google Compute Engine (e2-micro or e2-small VM instance running Ubuntu)
 
-## Linux Cloud Server Hosting Analysis
-If the KillerCoda Linux server investigated during this mission were migrated to the cloud, it could be hosted on the following equivalent virtual machine services:
-* **AWS:** Amazon Elastic Compute Cloud (EC2) instance running Ubuntu.
-* **Microsoft Azure:** Azure Virtual Machines running Ubuntu.
-* **Google Cloud Platform:** Google Compute Engine (GCE) VM instance running Ubuntu.
+**
