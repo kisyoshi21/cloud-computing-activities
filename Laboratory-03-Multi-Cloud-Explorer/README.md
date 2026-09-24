@@ -13,4 +13,16 @@ If this KillerCoda Linux server were migrated to the public cloud, it could be h
 * **Google Cloud Platform:** Google Compute Engine (e2-micro or e2-small VM instance running Ubuntu)
 
 ## Terminal Output 
-![KillerCoda Terminal Output](screenshots/killercoda.png)
+
+
+* **KillerCoda Environment:**
+  ![KillerCoda Terminal Output](screenshots/killercoda.png)
+
+* **AWS Deployment / Environment:**
+  ![AWS Output](screenshots/aws.png)
+
+* **Azure Home / Dashboard:**
+  ![Azure Home](screenshots/azure-homa.png)
+
+* **GCP Console:**
+  ![GCP Output](screenshots/gcp.png)
