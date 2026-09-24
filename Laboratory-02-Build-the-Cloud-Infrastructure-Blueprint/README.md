@@ -47,3 +47,11 @@ This laboratory activity focuses on investigating cloud infrastructure component
 * Ensuring precise correlation between low-level Linux file system mounts and abstract cloud storage volumes.
 * Structuring comprehensive multi-cloud comparison data into clean, readable Markdown tables.
 * Aligning architectural diagram elements to accurately reflect a secure, multi-tier cloud deployment workflow.
+
+  ## Evidence / Screenshots
+
+* **Server Investigation Output:**
+  ![Server Investigation](screenshots/server-investigation.png)
+
+* **Cloud Infrastructure Architecture Diagram:**
+  ![Cloud Architecture Blueprint](screenshots/cloud-architecture.png.png)
