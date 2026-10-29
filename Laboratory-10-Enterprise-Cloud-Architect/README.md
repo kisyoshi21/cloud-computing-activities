@@ -17,7 +17,7 @@ As the final capstone project for the Cloud Computing course, this mission repre
 ## System Architecture Diagram
 *(This network topology diagram shows the host machine, Ubuntu Server VM, UFW firewall layer, isolated bridge network, and persistent storage volumes.)*
 
-![System Architecture Diagram](./architecture-diagram.png)
+![System Architecture Diagram](./architecture-diagram1.png)
 
 ---
 
