@@ -1,11 +1,5 @@
 # Laboratory Activity 10: Mission 10 - The Enterprise Cloud Architect
 
-- **Name:** BAUTISTA, RAINIER L.
-- **Course and Section:** BSIT-3M
-- **Repository:** Cloud Computing Portfolio
-
----
-
 ## Mission Overview
 As the final capstone project for the Cloud Computing course, this mission represents the culmination of my training from a Junior Trainee to an Enterprise Cloud Architect at CloudNova Technologies. This project involves the independent architecture, deployment, security hardening, disaster recovery automation, and executive documentation of a production-ready, multi-tier enterprise web application stack (WordPress & MySQL) deployed on Ubuntu Server.
 
